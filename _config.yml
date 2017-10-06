@@ -1,4 +1,4 @@
-name: Arcana
-description: Arcana template for Jekyll
+name: Middlebury Libraries Data midd-data-services
+description: The home for Data Services at the Middlebury Libraries.
 paginate: 10
-baseurl: '/Arcana-Jekyll-Theme'
+baseurl: '/midd-data-services'
